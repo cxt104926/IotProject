@@ -1,0 +1,1558 @@
+[2019-04-18 00:29:35](Server)Normal:init::init Public Cloud OK!![2019-04-18 00:29:49](Server)Normal:init::init Public Cloud OK!![2019-04-18 00:30:05](Server)Error:connectToPublicCloud::??????????...[2019-04-18 00:30:19](Server)Error:connectToPublicCloud::??????????...[2019-04-18 00:30:21](Server)Normal:init::start private server OK!!![2019-04-18 00:30:33]()Debug:exitBtn::exit service![2019-04-18 00:30:34](Server)Normal:init::start private server OK!!![2019-04-18 00:30:36]()Debug:exitBtn::exit service![2019-10-24 18:42:08](Server)Normal:init::init Public Cloud OK!![2019-10-24 18:42:38](Server)Error:connectToPublicCloud::??????????...[2019-10-24 18:42:57](Server)Normal:init::init Public Cloud OK!![2019-10-24 18:43:21](Server)Normal:init::init Public Cloud OK!![2019-10-24 18:43:27](Server)Error:connectToPublicCloud::??????????...[2019-10-24 18:43:33](Server)Normal:init::start private server OK!!![2019-10-24 18:43:50](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 1,
+    "type": "requestData"
+}
+[2019-10-24 18:43:51](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 2,
+    "type": "requestData"
+}
+[2019-10-24 18:43:51](Server)Error:connectToPublicCloud::??????????...[2019-10-24 18:43:52](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 3,
+    "type": "requestData"
+}
+[2019-10-24 18:43:53](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 4,
+    "type": "requestData"
+}
+[2019-10-24 18:43:54](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 5,
+    "type": "requestData"
+}
+[2019-10-24 18:43:55](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 6,
+    "type": "requestData"
+}
+[2019-10-24 18:43:56](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 7,
+    "type": "requestData"
+}
+[2019-10-24 18:43:56](Server)Normal:init::start private server OK!!![2019-10-24 18:43:57](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 8,
+    "type": "requestData"
+}
+[2019-10-24 18:43:58](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 9,
+    "type": "requestData"
+}
+[2019-10-24 18:43:59](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 10,
+    "type": "requestData"
+}
+[2019-10-24 18:44:00](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 11,
+    "type": "requestData"
+}
+[2019-10-24 18:44:01](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 12,
+    "type": "requestData"
+}
+[2019-10-24 18:44:02](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 13,
+    "type": "requestData"
+}
+[2019-10-24 18:44:03](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 14,
+    "type": "requestData"
+}
+[2019-10-24 18:44:04](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 15,
+    "type": "requestData"
+}
+[2019-10-24 18:44:05](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 16,
+    "type": "requestData"
+}
+[2019-10-24 18:44:06](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 17,
+    "type": "requestData"
+}
+[2019-10-24 18:44:07](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 18,
+    "type": "requestData"
+}
+[2019-10-24 18:44:08](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 19,
+    "type": "requestData"
+}
+[2019-10-24 18:44:09](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 20,
+    "type": "requestData"
+}
+[2019-10-24 18:44:10](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 21,
+    "type": "requestData"
+}
+[2019-10-24 18:44:11](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 22,
+    "type": "requestData"
+}
+[2019-10-24 18:44:12](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 23,
+    "type": "requestData"
+}
+[2019-10-24 18:44:13](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 24,
+    "type": "requestData"
+}
+[2019-10-24 18:44:14](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 25,
+    "type": "requestData"
+}
+[2019-10-24 18:44:15](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 26,
+    "type": "requestData"
+}
+[2019-10-24 18:44:16](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 27,
+    "type": "requestData"
+}
+[2019-10-24 18:44:17](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 28,
+    "type": "requestData"
+}
+[2019-10-24 18:44:18](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 29,
+    "type": "requestData"
+}
+[2019-10-24 18:44:19](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 30,
+    "type": "requestData"
+}
+[2019-10-24 18:44:20](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 31,
+    "type": "requestData"
+}
+[2019-10-24 18:44:21](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 32,
+    "type": "requestData"
+}
+[2019-10-24 18:44:22](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 33,
+    "type": "requestData"
+}
+[2019-10-24 18:44:23](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 34,
+    "type": "requestData"
+}
+[2019-10-24 18:44:24](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 35,
+    "type": "requestData"
+}
+[2019-10-24 18:44:25](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 36,
+    "type": "requestData"
+}
+[2019-10-24 18:44:26](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 37,
+    "type": "requestData"
+}
+[2019-10-24 18:44:27](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 38,
+    "type": "requestData"
+}
+[2019-10-24 18:44:28](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 39,
+    "type": "requestData"
+}
+[2019-10-24 18:44:29](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 40,
+    "type": "requestData"
+}
+[2019-10-24 18:44:30](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 41,
+    "type": "requestData"
+}
+[2019-10-24 18:44:31](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 42,
+    "type": "requestData"
+}
+[2019-10-24 18:44:32](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 43,
+    "type": "requestData"
+}
+[2019-10-24 18:44:33](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 44,
+    "type": "requestData"
+}
+[2019-10-24 18:44:34](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 45,
+    "type": "requestData"
+}
+[2019-10-24 18:44:35](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 46,
+    "type": "requestData"
+}
+[2019-10-24 18:44:36](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 47,
+    "type": "requestData"
+}
+[2019-10-24 18:44:37](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 48,
+    "type": "requestData"
+}
+[2019-10-24 18:44:38](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 49,
+    "type": "requestData"
+}
+[2019-10-24 18:44:39](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 50,
+    "type": "requestData"
+}
+[2019-10-24 18:44:40](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 51,
+    "type": "requestData"
+}
+[2019-10-24 18:44:41](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 52,
+    "type": "requestData"
+}
+[2019-10-24 18:44:42](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 53,
+    "type": "requestData"
+}
+[2019-10-24 18:44:43](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 54,
+    "type": "requestData"
+}
+[2019-10-24 18:44:44](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 55,
+    "type": "requestData"
+}
+[2019-10-24 18:44:45](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 56,
+    "type": "requestData"
+}
+[2019-10-24 18:44:46](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 57,
+    "type": "requestData"
+}
+[2019-10-24 18:44:47](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 58,
+    "type": "requestData"
+}
+[2019-10-24 18:44:48](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 59,
+    "type": "requestData"
+}
+[2019-10-24 18:44:49](Server)Normal:handleDataFromClient::data={
+    "passWord": "202cb962ac59075b964b07152d234b70",
+    "requestIndex": 60,
+    "type": "login",
+    "userName": "cxt"
+}
+[2019-10-24 18:44:49](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 61,
+    "type": "requestData"
+}
+[2019-10-24 18:44:49](Server)Normal:handleDataFromClient::data={
+    "passWord": "202cb962ac59075b964b07152d234b70",
+    "requestIndex": 62,
+    "type": "login",
+    "userName": "cxt"
+}
+[2019-10-24 18:44:50](Server)Normal:handleDataFromClient::data={
+    "passWord": "202cb962ac59075b964b07152d234b70",
+    "requestIndex": 63,
+    "type": "login",
+    "userName": "cxt"
+}
+[2019-10-24 18:44:50](Server)Normal:handleDataFromClient::data={
+    "passWord": "202cb962ac59075b964b07152d234b70",
+    "requestIndex": 64,
+    "type": "login",
+    "userName": "cxt"
+}
+[2019-10-24 18:44:50](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 65,
+    "type": "requestData"
+}
+[2019-10-24 18:44:51](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 66,
+    "type": "requestData"
+}
+[2019-10-24 18:44:52](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 67,
+    "type": "requestData"
+}
+[2019-10-24 18:44:53](Server)Warn:handleDisconnection::?????????...[2019-10-24 18:44:55]()Debug:exitBtn::exit service![2019-10-24 18:45:46](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 1,
+    "type": "requestData"
+}
+[2019-10-24 18:45:47](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 2,
+    "type": "requestData"
+}
+[2019-10-24 18:45:48](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 3,
+    "type": "requestData"
+}
+[2019-10-24 18:45:49](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 4,
+    "type": "requestData"
+}
+[2019-10-24 18:45:50](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 5,
+    "type": "requestData"
+}
+[2019-10-24 18:45:51](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 6,
+    "type": "requestData"
+}
+[2019-10-24 18:45:52](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 7,
+    "type": "requestData"
+}
+[2019-10-24 18:45:53](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 8,
+    "type": "requestData"
+}
+[2019-10-24 18:45:54](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 9,
+    "type": "requestData"
+}
+[2019-10-24 18:45:55](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 10,
+    "type": "requestData"
+}
+[2019-10-24 18:45:56](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 11,
+    "type": "requestData"
+}
+[2019-10-24 18:45:57](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 12,
+    "type": "requestData"
+}
+[2019-10-24 18:45:58](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 13,
+    "type": "requestData"
+}
+[2019-10-24 18:45:59](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 14,
+    "type": "requestData"
+}
+[2019-10-24 18:46:00](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 15,
+    "type": "requestData"
+}
+[2019-10-24 18:46:01](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 16,
+    "type": "requestData"
+}
+[2019-10-24 18:46:02](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 17,
+    "type": "requestData"
+}
+[2019-10-24 18:46:03](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 18,
+    "type": "requestData"
+}
+[2019-10-24 18:46:04](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 19,
+    "type": "requestData"
+}
+[2019-10-24 18:46:05](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 20,
+    "type": "requestData"
+}
+[2019-10-24 18:46:06](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 21,
+    "type": "requestData"
+}
+[2019-10-24 18:46:07](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 22,
+    "type": "requestData"
+}
+[2019-10-24 18:46:08](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 23,
+    "type": "requestData"
+}
+[2019-10-24 18:46:09](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 24,
+    "type": "requestData"
+}
+[2019-10-24 18:46:10](Server)Normal:handleDataFromClient::data={
+    "passWord": "202cb962ac59075b964b07152d234b70",
+    "requestIndex": 25,
+    "type": "login",
+    "userName": "cxt"
+}
+[2019-10-24 18:46:10](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 26,
+    "type": "requestData"
+}
+[2019-10-24 18:46:11](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 27,
+    "type": "requestData"
+}
+[2019-10-24 18:46:12](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 28,
+    "type": "requestData"
+}
+[2019-10-24 18:46:13](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 29,
+    "type": "requestData"
+}
+[2019-10-24 18:46:14](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 30,
+    "type": "requestData"
+}
+[2019-10-24 18:46:15](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 31,
+    "type": "requestData"
+}
+[2019-10-24 18:46:17](Server)Warn:handleDisconnection::?????????...[2019-10-24 18:50:54](Server)Normal:init::init Public Cloud OK!![2019-10-24 18:51:13](Server)Normal:init::init Public Cloud OK!![2019-10-24 18:51:24](Server)Error:connectToPublicCloud::??????????...[2019-10-24 18:51:43](Server)Error:connectToPublicCloud::??????????...[2019-10-24 18:51:47](Server)Normal:init::init Public Cloud OK!![2019-10-24 18:52:17](Server)Error:connectToPublicCloud::??????????...[2019-10-24 18:53:56](Server)Normal:init::start private server OK!!![2019-10-24 18:54:12](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 2,
+    "type": "requestData"
+}
+[2019-10-24 18:54:13](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 3,
+    "type": "requestData"
+}
+[2019-10-24 18:54:14](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 4,
+    "type": "requestData"
+}
+[2019-10-24 18:54:15](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 5,
+    "type": "requestData"
+}
+[2019-10-24 18:54:16](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 6,
+    "type": "requestData"
+}
+[2019-10-24 18:54:17](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 7,
+    "type": "requestData"
+}
+[2019-10-24 18:54:18](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 8,
+    "type": "requestData"
+}
+[2019-10-24 18:54:19](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 9,
+    "type": "requestData"
+}
+[2019-10-24 18:54:20](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 10,
+    "type": "requestData"
+}
+[2019-10-24 18:54:21](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 11,
+    "type": "requestData"
+}
+[2019-10-24 18:54:22](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 12,
+    "type": "requestData"
+}
+[2019-10-24 18:54:23](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 13,
+    "type": "requestData"
+}
+[2019-10-24 18:54:24](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 14,
+    "type": "requestData"
+}
+[2019-10-24 18:54:25](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 15,
+    "type": "requestData"
+}
+[2019-10-24 18:54:26](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 16,
+    "type": "requestData"
+}
+[2019-10-24 18:54:27](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 17,
+    "type": "requestData"
+}
+[2019-10-24 18:54:28](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 18,
+    "type": "requestData"
+}
+[2019-10-24 18:54:29](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 19,
+    "type": "requestData"
+}
+[2019-10-24 18:54:30](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 20,
+    "type": "requestData"
+}
+[2019-10-24 18:54:31](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 21,
+    "type": "requestData"
+}
+[2019-10-24 18:54:32](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 22,
+    "type": "requestData"
+}
+[2019-10-24 18:54:33](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 23,
+    "type": "requestData"
+}
+[2019-10-24 18:54:34](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 24,
+    "type": "requestData"
+}
+[2019-10-24 18:54:35](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 25,
+    "type": "requestData"
+}
+[2019-10-24 18:54:36](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 26,
+    "type": "requestData"
+}
+[2019-10-24 18:54:37](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 27,
+    "type": "requestData"
+}
+[2019-10-24 18:54:38](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 28,
+    "type": "requestData"
+}
+[2019-10-24 18:54:39](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 29,
+    "type": "requestData"
+}
+[2019-10-24 18:54:40](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 30,
+    "type": "requestData"
+}
+[2019-10-24 18:54:41](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 31,
+    "type": "requestData"
+}
+[2019-10-24 18:54:42](Server)Normal:handleDataFromClient::data={
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 32,
+    "type": "login",
+    "userName": "caoxt"
+}
+[2019-10-24 18:54:42](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 33,
+    "type": "requestData"
+}
+[2019-10-24 18:54:42](Server)Normal:handleDataFromClient::data={
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 34,
+    "type": "login",
+    "userName": "caoxt"
+}
+[2019-10-24 18:54:42](Server)Normal:handleDataFromClient::data={
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 35,
+    "type": "login",
+    "userName": "caoxt"
+}
+[2019-10-24 18:54:43](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 36,
+    "type": "requestData"
+}
+[2019-10-24 18:54:44](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 37,
+    "type": "requestData"
+}
+[2019-10-24 18:54:45](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 38,
+    "type": "requestData"
+}
+[2019-10-24 18:54:46](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 39,
+    "type": "requestData"
+}
+[2019-10-24 18:54:47](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 40,
+    "type": "requestData"
+}
+[2019-10-24 18:54:48](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 41,
+    "type": "requestData"
+}
+[2019-10-24 18:54:49](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 42,
+    "type": "requestData"
+}
+[2019-10-24 18:54:50](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 43,
+    "type": "requestData"
+}
+[2019-10-24 18:54:51](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 44,
+    "type": "requestData"
+}
+[2019-10-24 18:54:52](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 45,
+    "type": "requestData"
+}
+[2019-10-24 18:54:53](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 46,
+    "type": "requestData"
+}
+[2019-10-24 18:54:53](Server)Normal:handleDataFromClient::data={
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 47,
+    "type": "login",
+    "userName": "caoxt"
+}
+[2019-10-24 18:54:54](Server)Normal:handleDataFromClient::data={
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 48,
+    "type": "login",
+    "userName": "caoxt"
+}
+[2019-10-24 18:54:54](Server)Normal:handleDataFromClient::data={
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 49,
+    "type": "login",
+    "userName": "caoxt"
+}
+[2019-10-24 18:54:54](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 50,
+    "type": "requestData"
+}
+[2019-10-24 18:54:55](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 51,
+    "type": "requestData"
+}
+[2019-10-24 18:54:56](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 52,
+    "type": "requestData"
+}
+[2019-10-24 18:54:57](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 53,
+    "type": "requestData"
+}
+[2019-10-24 18:54:58](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 54,
+    "type": "requestData"
+}
+[2019-10-24 18:54:59](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 55,
+    "type": "requestData"
+}
+[2019-10-24 18:55:00](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 56,
+    "type": "requestData"
+}
+[2019-10-24 18:55:01](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 57,
+    "type": "requestData"
+}
+[2019-10-24 18:55:02](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 58,
+    "type": "requestData"
+}
+[2019-10-24 18:55:03](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 59,
+    "type": "requestData"
+}
+[2019-10-24 18:55:04](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 60,
+    "type": "requestData"
+}
+[2019-10-24 18:55:05](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 61,
+    "type": "requestData"
+}
+[2019-10-24 18:55:06](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 62,
+    "type": "requestData"
+}
+[2019-10-24 18:55:07](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 63,
+    "type": "requestData"
+}
+[2019-10-24 18:55:08](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 64,
+    "type": "requestData"
+}
+[2019-10-24 18:55:09](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 65,
+    "type": "requestData"
+}
+[2019-10-24 18:55:10](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 66,
+    "type": "requestData"
+}
+[2019-10-24 18:55:11](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 67,
+    "type": "requestData"
+}
+[2019-10-24 18:55:12](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 68,
+    "type": "requestData"
+}
+[2019-10-24 18:55:13](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 69,
+    "type": "requestData"
+}
+[2019-10-24 18:55:14](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 70,
+    "type": "requestData"
+}
+[2019-10-24 18:55:15](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 71,
+    "type": "requestData"
+}
+[2019-10-24 18:55:16](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 72,
+    "type": "requestData"
+}
+[2019-10-24 18:55:17](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 73,
+    "type": "requestData"
+}
+[2019-10-24 18:55:18](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 74,
+    "type": "requestData"
+}
+[2019-10-24 18:55:19](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 75,
+    "type": "requestData"
+}
+[2019-10-24 18:55:20](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 76,
+    "type": "requestData"
+}
+[2019-10-24 18:55:21](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 77,
+    "type": "requestData"
+}
+[2019-10-24 18:55:22](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 78,
+    "type": "requestData"
+}
+[2019-10-24 18:55:23](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 79,
+    "type": "requestData"
+}
+[2019-10-24 18:55:24](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 80,
+    "type": "requestData"
+}
+[2019-10-24 18:55:25](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 81,
+    "type": "requestData"
+}
+[2019-10-24 18:55:26](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 82,
+    "type": "requestData"
+}
+[2019-10-24 18:55:27](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 83,
+    "type": "requestData"
+}
+[2019-10-24 18:55:28](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 84,
+    "type": "requestData"
+}
+[2019-10-24 18:55:29](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 85,
+    "type": "requestData"
+}
+[2019-10-24 18:55:30](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 86,
+    "type": "requestData"
+}
+[2019-10-24 18:55:31](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 87,
+    "type": "requestData"
+}
+[2019-10-24 18:55:32](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 88,
+    "type": "requestData"
+}
+[2019-10-24 18:55:33](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 89,
+    "type": "requestData"
+}
+[2019-10-24 18:55:34](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 90,
+    "type": "requestData"
+}
+[2019-10-24 18:55:35](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 91,
+    "type": "requestData"
+}
+[2019-10-24 18:55:36](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 92,
+    "type": "requestData"
+}
+[2019-10-24 18:55:37](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 93,
+    "type": "requestData"
+}
+[2019-10-24 18:55:38](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 94,
+    "type": "requestData"
+}
+[2019-10-24 18:55:39](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 95,
+    "type": "requestData"
+}
+[2019-10-24 18:55:40](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 96,
+    "type": "requestData"
+}
+[2019-10-24 18:55:41](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 97,
+    "type": "requestData"
+}
+[2019-10-24 18:55:42](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 98,
+    "type": "requestData"
+}
+[2019-10-24 18:55:43](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 99,
+    "type": "requestData"
+}
+[2019-10-24 18:55:44](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 100,
+    "type": "requestData"
+}
+[2019-10-24 18:55:45](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 101,
+    "type": "requestData"
+}
+[2019-10-24 18:55:46](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 102,
+    "type": "requestData"
+}
+[2019-10-24 18:55:47](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 103,
+    "type": "requestData"
+}
+[2019-10-24 18:55:48](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 104,
+    "type": "requestData"
+}
+[2019-10-24 18:55:49](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 105,
+    "type": "requestData"
+}
+[2019-10-24 18:55:50](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 106,
+    "type": "requestData"
+}
+[2019-10-24 18:55:51](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 107,
+    "type": "requestData"
+}
+[2019-10-24 18:55:52](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 108,
+    "type": "requestData"
+}
+[2019-10-24 18:55:53](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 109,
+    "type": "requestData"
+}
+[2019-10-24 18:55:54](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 110,
+    "type": "requestData"
+}
+[2019-10-24 18:55:55](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 111,
+    "type": "requestData"
+}
+[2019-10-24 18:55:56](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 112,
+    "type": "requestData"
+}
+[2019-10-24 18:55:57](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 113,
+    "type": "requestData"
+}
+[2019-10-24 18:55:58](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 114,
+    "type": "requestData"
+}
+[2019-10-24 18:55:59](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 115,
+    "type": "requestData"
+}
+[2019-10-24 18:56:00](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 116,
+    "type": "requestData"
+}
+[2019-10-24 18:56:01](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 117,
+    "type": "requestData"
+}
+[2019-10-24 18:56:02](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 118,
+    "type": "requestData"
+}
+[2019-10-24 18:56:03](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 119,
+    "type": "requestData"
+}
+[2019-10-24 18:56:04](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 120,
+    "type": "requestData"
+}
+[2019-10-24 18:56:05](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 121,
+    "type": "requestData"
+}
+[2019-10-24 18:56:06](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 122,
+    "type": "requestData"
+}
+[2019-10-24 18:56:07](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 123,
+    "type": "requestData"
+}
+[2019-10-24 18:56:08](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 124,
+    "type": "requestData"
+}
+[2019-10-24 18:56:09](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 125,
+    "type": "requestData"
+}
+[2019-10-24 18:56:10](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 126,
+    "type": "requestData"
+}
+[2019-10-24 18:56:11](Server)Normal:handleDataFromClient::data={
+    "deviceID": 100010,
+    "key": "",
+    "passWord": "e10adc3949ba59abbe56e057f20f883e",
+    "requestIndex": 127,
+    "type": "requestData"
+}
+
